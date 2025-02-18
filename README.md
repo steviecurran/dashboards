@@ -1,4 +1,6 @@
-# Compilation of Links to the dashboards in the other repositories
+# Dashboards
+
+Compilation of Links to the dashboards in the other repositories
 
 [Global Sales Analysis dashboard](https://github.com/steviecurran/GSA-dashboard)
 

@@ -1,6 +1,6 @@
 # Dashboards
 
-Compilation of Links to the Plotly Dash dashboards in the other repositories
+Compilation of links to the Plotly Dash dashboards in the other repositories
 
 [Global Sales Analysis dashboard](https://github.com/steviecurran/GSA-dashboard)
 

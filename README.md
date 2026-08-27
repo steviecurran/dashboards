@@ -8,9 +8,9 @@ Compilation of links to the Plotly Dash dashboards in the other repositories
 
 [New Zealand Greenhouse Gas Emissions dashboard](https://github.com/steviecurran/nz-greenhouse-gas-dashboard)
 
-[Audiobook reviews dashboard](https://github.com/steviecurran/audio-books/)
+[Audiobook Reviews dashboard](https://github.com/steviecurran/audiobook-reviews-dashboard)
 
-[UK Unemployment figures dashboard](https://github.com/steviecurran/uk-unemployment-dashboard)
+[UK Unemployment Figures dashboard](https://github.com/steviecurran/uk-unemployment-dashboard)
 
 One of the dashboads is acessible at [http://steviecurran.pythonanywhere.com](http://steviecurran.pythonanywhere.com) - the page may require a reload and is quite slow to load (that's the basic package for you!)
 

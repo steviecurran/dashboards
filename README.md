@@ -6,7 +6,7 @@ Compilation of links to the Plotly Dash dashboards in the other repositories
 
 [Global Superstore Orders & Returns dashboard](https://github.com/steviecurran/GSOR-dashboard/)
 
-[New Zealand Greenhouse Gas Emissions dashboard](https://github.com/steviecurran/nz-greenhouse-gas-dashboardh)
+[New Zealand Greenhouse Gas Emissions dashboard](https://github.com/steviecurran/nz-greenhouse-gas-dashboard)
 
 [Audiobook reviews dashboard](https://github.com/steviecurran/audio-books/)
 

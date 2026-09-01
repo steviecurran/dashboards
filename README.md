@@ -12,6 +12,5 @@ Compilation of links to the Plotly Dash dashboards in the other repositories
 
 [UK Unemployment Trends](https://github.com/steviecurran/uk-unemployment-dashboard)
 
-One of the dashboads is acessible at [http://steviecurran.pythonanywhere.com](http://steviecurran.pythonanywhere.com) - the page may require a reload and is quite slow to load (that's the basic package for you!)
+One of the dashboads is acessible at [http://steviecurran.pythonanywhere.com](http://steviecurran.pythonanywhere.com) - note this runs on free-tier hosting and may be slow to load or require a page reload.
 
-And for completeness, a dashboard I made using Tableau  [Logistics Performance Dashboard](https://github.com/steviecurran/logistics-performance-dashboard)
